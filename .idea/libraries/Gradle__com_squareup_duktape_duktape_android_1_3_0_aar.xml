@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.duktape:duktape-android:1.3.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60ac4c4768ea9cdc7700faa62ae6e38e/jetified-duktape-android-1.3.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e8a197b8ff557dfb926a9f69bf623b5/jetified-duktape-android-1.3.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60ac4c4768ea9cdc7700faa62ae6e38e/jetified-duktape-android-1.3.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60ac4c4768ea9cdc7700faa62ae6e38e/jetified-duktape-android-1.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60ac4c4768ea9cdc7700faa62ae6e38e/jetified-duktape-android-1.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c873fe41332d6ed962b95378155324ec/jetified-duktape-android-1.3.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e8a197b8ff557dfb926a9f69bf623b5/jetified-duktape-android-1.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e8a197b8ff557dfb926a9f69bf623b5/jetified-duktape-android-1.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e8a197b8ff557dfb926a9f69bf623b5/jetified-duktape-android-1.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.duktape/duktape-android/1.3.0/ad6481ee716c52dca5dae87fedc7a8fdf698ca0a/duktape-android-1.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.duktape/duktape-android/1.3.0/51f3ec9482d993aea1b1f657ed016193968f67a6/duktape-android-1.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

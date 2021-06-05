@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36135502377",
+    "project_id": "emit-call",
+    "storage_bucket": "emit-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36135502377:android:e887d6693d026adb105238",
+        "android_client_info": {
+          "package_name": "com.faucongz.emitcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36135502377-75ccgrmeq5krt01p8v9q2cm3ved1q2kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkwDyLpPEhud_UDtHINGGepFyB7cFYLYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36135502377-75ccgrmeq5krt01p8v9q2cm3ved1q2kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
